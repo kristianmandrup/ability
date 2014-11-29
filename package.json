@@ -1,0 +1,38 @@
+{
+  "name": "ability",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url":  "https://github.com/kristianmandrup/ability.git"
+  },
+  "keywords": [
+    "authorize",
+    "authorization",
+    "access",
+    "ability",
+    "permission"
+  ],
+  "dependencies": {
+  },
+  "scripts": {
+    "test":     "make test",
+    "coverage": "./node_modules/istanbul/lib/cli.js cover ./node_modules/mocha/bin/_mocha -- --ui bdd -R test -t 5000"
+  },
+  "devDependencies": {
+    "callback-timer":           "x",
+    "sleep":                    "x",
+    "LiveScript":               "x",
+    "browserify":               "x",
+    "mocha":                    "x",
+    "chai":                     "x",
+    "util":                     "x",
+    "access-request":           "kristianmandrup/access-request#master",
+    "fingerprint":              "kristianmandrup/fingerprint#master",
+    "should":                   "x",
+    "istanbul":                 "x",
+    "grunt":                    "x",
+    "grunt-mocha-test":         "x",
+    "grunt-istanbul":           "x",
+    "grunt-istanbul-coverage":  "x"
+  }
+}

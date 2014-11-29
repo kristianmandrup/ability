@@ -1,0 +1,28 @@
+{
+  "name": "ability",
+  "main": [
+    "index.js"
+  ],
+  "version": "0.1.0",
+  "homepage": "https://github.com/kristianmandrup/ability",
+  "authors": [
+    "Kristian Mandrup <kmandrup@gmail.com>"
+  ],
+  "description": "Ability for authorization libs",
+  "keywords": [
+    "authorize",
+    "authorization",
+    "access",
+    "ability",
+    "permission"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ]
+}
