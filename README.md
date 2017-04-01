@@ -1,5 +1,7 @@
 # Ability
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kristianmandrup/ability.svg)](https://greenkeeper.io/)
+
 Ability for Authorization libs.
 
 ## Usage
